@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+openai
+litellm
+faiss-cpu
+pandas
+pdfplumber
+python-dotenv
+sentence-transformers
+numpy
+openpyxl
