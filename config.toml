@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#6F4E37"            # Coffee Brown
+backgroundColor = "#FAF5F0"         # Latte / Cream
+secondaryBackgroundColor = "#E6D5C3" # Soft Tan
+textColor = "#3C2A21"               # Dark Espresso
+font = "sans serif"
